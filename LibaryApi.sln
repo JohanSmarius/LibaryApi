@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibaryApi", "LibaryApi\LibaryApi.csproj", "{5844EDBB-7A80-4D57-83B2-33270D7FCD2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{ECC1BE30-90A7-444D-9D27-EFFD6359295F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{4A99BF3F-669F-4509-AE2F-E301516047EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5844EDBB-7A80-4D57-83B2-33270D7FCD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5844EDBB-7A80-4D57-83B2-33270D7FCD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5844EDBB-7A80-4D57-83B2-33270D7FCD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5844EDBB-7A80-4D57-83B2-33270D7FCD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC1BE30-90A7-444D-9D27-EFFD6359295F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC1BE30-90A7-444D-9D27-EFFD6359295F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC1BE30-90A7-444D-9D27-EFFD6359295F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC1BE30-90A7-444D-9D27-EFFD6359295F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A99BF3F-669F-4509-AE2F-E301516047EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A99BF3F-669F-4509-AE2F-E301516047EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A99BF3F-669F-4509-AE2F-E301516047EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A99BF3F-669F-4509-AE2F-E301516047EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
